@@ -62,4 +62,4 @@ Humidity (%)
 
 Wind Speed (m/s)
 
-##OUTPUT: <img width="1376" height="711" alt="Image" src="https://github.com/user-attachments/assets/4706a202-0492-4c06-bd8b-be07e00c919a" />
+##OUTPUT: <img width="1915" height="967" alt="Image" src="https://github.com/user-attachments/assets/68908468-ded2-477a-9b8c-36d2a7d25418" />
