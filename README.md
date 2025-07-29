@@ -61,3 +61,5 @@ Temperature (°C)
 Humidity (%)
 
 Wind Speed (m/s)
+
+##OUTPUT: <img width="1376" height="711" alt="Image" src="https://github.com/user-attachments/assets/4706a202-0492-4c06-bd8b-be07e00c919a" />
